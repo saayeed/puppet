@@ -1,0 +1,4 @@
+---
+installutility::checkinstallutility: true
+installutility::installutilitypath: '/u01/wlp/bin'
+installutility::utilities: [jca-1.6, adminCenter-1.0]
